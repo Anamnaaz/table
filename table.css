@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+
+}
+table {
+    border: 1px solid black;
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    height: 30px;
+}
+h2{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.sub1 { color: dodgerblue;
+         font-weight: bold; 
+        }
+.sub2 { color: orange; 
+    font-weight: bold;
+       }
+
+.sub3 { color: rgba(250, 50, 250, 0.904);
+    font-weight: bold;
+ }
+.sub4 { color: green; 
+    font-weight: bold; 
+ }
+.sub5 { color: red;
+    font-weight: bold;
+ }
+.swa { color: red; 
+    font-weight: bold; 
+}
+.lunch{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-align: center;
+}
+
